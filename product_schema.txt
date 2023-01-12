@@ -1,0 +1,9 @@
+name
+price
+description
+color
+size
+tag
+sku
+brand
+additional_information
